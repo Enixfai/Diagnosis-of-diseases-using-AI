@@ -13,7 +13,8 @@ In conclusion, it should be said that this development has enormous potential; h
 
 
 
-Automatic video editing using AI
+Automatic video editing using AI.
+
 I would like to introduce you to our service for processing video materials using artificial intelligence, which will help many people improve the quality of their videos.
 
 The main goals of our project:
