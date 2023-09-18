@@ -13,6 +13,9 @@ In conclusion, it should be said that this development has enormous potential; h
 
 
 
+---  
+---
+---
 
 # Automatic video editing using AI.
 
